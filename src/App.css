@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(36, 36, 36);
+  color: white;
+}
+
+.comment-scrool-container::-webkit-scrollbar {
+  width: 0px;
+}
+
+.comment-scrool-container::-webkit-scrollbar-thumb {
+  background-color: transparent;
+}
